@@ -1,0 +1,37 @@
+usage_date,ServiceName,daily_cost,anomaly_score,severity
+2024-09-14,AWS Key Management Service,0.04,2.9887073785956018,Informational
+2024-09-03,AWS Lambda,0.48,9.892666666666667,Informational
+2024-09-06,AWS Lambda,0.47,9.667833333333332,Informational
+2024-09-10,AWS Lambda,0.46,9.443000000000001,Informational
+2024-09-18,AWS Lambda,0.53,11.016833333333336,Informational
+2024-09-19,AWS Lambda,0.51,10.567166666666667,Informational
+2024-09-21,AWS Lambda,0.47,9.667833333333332,Informational
+2024-09-26,AWS Lambda,0.46,9.443000000000001,Informational
+2024-09-27,AWS Lambda,0.52,10.792,Informational
+2024-09-28,AWS Lambda,0.51,10.567166666666667,Informational
+2024-09-30,AWS Lambda,0.52,10.792,Informational
+2024-09-05,AWS Security Hub,0.23,3.939782937012109,Informational
+2024-09-08,AWS Step Functions,0.04,3.853766359227704,Informational
+2024-09-01,AWS WAF,0.03,2.6383067535599256,Informational
+2024-09-09,Amazon API Gateway,0.05,3.573015746048048,Informational
+2024-09-15,Amazon API Gateway,0.05,3.573015746048048,Informational
+2024-09-28,Amazon CloudFront,4.32,13.056392857142857,Low
+2024-09-30,Amazon CloudFront,1.48,3.934583333333333,Low
+2024-09-08,Amazon EC2 Container Registry (ECR),0.07,3.1161599704881127,Informational
+2024-09-23,Amazon EC2 Container Registry (ECR),0.07,3.1161599704881127,Informational
+2024-09-22,Amazon Elastic Container Registry Public,0.2,3.657485335125507,Informational
+2024-09-13,Amazon Elastic Container Service,0.93,4.785738095238096,Informational
+2024-09-09,Amazon GuardDuty,0.12,2.7833857146166885,Informational
+2024-09-15,Amazon GuardDuty,0.12,2.7833857146166885,Informational
+2024-09-17,Amazon GuardDuty,0.13,3.0463114010137047,Informational
+2024-09-09,Amazon Relational Database Service,6.43,4.088295918367347,Medium
+2024-09-05,Amazon Simple Email Service,0.02,2.866300181128096,Informational
+2024-09-25,Amazon Simple Email Service,0.02,2.866300181128096,Informational
+2024-09-04,Amazon Simple Storage Service,2.46,26.867583333333332,Low
+2024-09-05,Amazon Simple Storage Service,1.85,20.010166666666663,Low
+2024-09-21,AmazonCloudWatch,2.81,11.373465517241382,Low
+2024-09-26,AmazonCloudWatch,21.03,96.12787931034485,High
+2024-09-30,AmazonCloudWatch,1.2,3.8841896551724138,Low
+2024-09-19,CloudWatch Events,0.01,3.6103300068858926,Informational
+2024-09-28,CloudWatch Events,0.01,3.6103300068858926,Informational
+2024-09-11,Elastic Load Balancing,3.27,19.4895,Low
